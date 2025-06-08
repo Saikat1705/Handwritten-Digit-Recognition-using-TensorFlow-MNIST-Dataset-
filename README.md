@@ -13,6 +13,13 @@ This project demonstrates how to recognize handwritten digits using a neural net
 - Matplotlib
 - PIL (Pillow)
 
+## Dataset
+
+The dataset used here is the MNIST Dataset in JPG format, originally created and shared by [teavanist](https://github.com/teavanist/MNIST-JPG).
+
+You can find the original dataset here:  
+[https://github.com/teavanist/MNIST-JPG/blob/master/MNIST%20Dataset%20JPG%20format.zip](https://github.com/teavanist/MNIST-JPG/blob/master/MNIST%20Dataset%20JPG%20format.zip)
+
 ## Author
 **Saikat Chowdhury**  
 GitHub: [Saikat1705](https://github.com/Saikat1705)
