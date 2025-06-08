@@ -1,0 +1,12 @@
+All Rights Reserved
+
+Copyright (c) 2025 Saikat Chowdhury
+
+This project is published for educational and demonstration purposes only.  
+You may view and read the code.  
+You may NOT:
+- Copy, modify, or distribute any part of this code
+- Use this code in your own project
+- Use this code for commercial purposes
+
+To request permission for any use, contact the author via GitHub.
